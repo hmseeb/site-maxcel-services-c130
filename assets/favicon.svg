@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Maxcel Services">
+  <rect width="64" height="64" rx="12" fill="#10302f"/>
+  <rect x="8" y="46" width="48" height="5" rx="2.5" fill="#b3400c"/>
+  <path d="M14 40V20l9 13 9-13v20" fill="none" stroke="#ffffff" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M38 40l6-20M50 40l-6-20" fill="none" stroke="#f3b58f" stroke-width="4.5" stroke-linecap="round"/>
+</svg>
